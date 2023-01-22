@@ -10,7 +10,7 @@ A list of free and open-source resources for game dev
 
 **Remember to look through licenses before using!**
 
-- [Code](#code) 
+- [Code](#code)
   - [2D Engines](#2D Engines)
   - [3D Engines](#3D Engines)
 - [Tools](#Tools)
@@ -18,10 +18,10 @@ A list of free and open-source resources for game dev
 - [Marketing](#Marketing)
 - [Assets](#Assets)
   - [Visual Assets](#Visual Assets)
-    -[2D Assets](#2D Assets)
-    -[3D Assets](#3D Assets)
-    -[Graphics Collections](#Graphics Collections)
-    -[Textures](#Textures)
+    - [2D Assets](#2D Assets)
+    - [3D Assets](#3D Assets)
+  - [Graphics Collections](#Graphics Collections)
+  - [Textures](#Textures)
   - [Audio](#Audio Assets)
 - [Tutorials](#Tutorials)
 
