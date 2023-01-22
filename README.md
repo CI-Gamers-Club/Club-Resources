@@ -1,4 +1,4 @@
-Link Checker: [![Build Status](https://travis-ci.org/Alloz1115/Club-Resources.svg?branch=main)](https://travis-ci.org/Alloz1115/Club-Resources)
+Link Checker: [![Build Status](https://travis-ci.com/Alloz1115/Club-Resources.svg?branch=main)](https://travis-ci.com/Alloz1115/Club-Resources)
 # Club-Resources
 A list of free and open-source resources for game dev
 
@@ -46,6 +46,7 @@ Tools
 --------
 Design
 --------
+* [Blender](https://www.blender.org/) - Open-source 3D modeling software
 
 --------
 Marketing
