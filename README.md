@@ -12,7 +12,7 @@ A list of free and open-source resources for game dev
 - [Design](#design)
 - [Marketing](#marketing)
 - [Assets](#assets)
-  - [Visual Assets](#visual Assets)
+  - [Visual Assets](#visual-assets)
     - [2D Assets](#2d-assets)
     - [3D Assets](#3d-assets)
   - [Graphics Collections](#graphics-collections)
