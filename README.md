@@ -1,29 +1,24 @@
-Link Checker: [![Build Status](https://travis-ci.org/Alloz1115/Club-Resources.svg?branch=main)](https://travis-ci.org/Alloz1115/Club-Resources)
 # Club-Resources
 A list of free and open-source resources for game dev
 
 <!--future club logo image here-->
 
-:heavy_exclamation_mark: = Limited Free,
-:free: = 100% Free,
-:o2: = Open Source
-
 **Remember to look through licenses before using!**
 
 - [Code](#code)
-  - [2D Engines](#2D Engines)
-  - [3D Engines](#3D Engines)
-- [Tools](#Tools)
-- [Design](#Design)
-- [Marketing](#Marketing)
-- [Assets](#Assets)
-  - [Visual Assets](#Visual Assets)
-    - [2D Assets](#2D Assets)
-    - [3D Assets](#3D Assets)
-  - [Graphics Collections](#Graphics Collections)
-  - [Textures](#Textures)
-  - [Audio](#Audio Assets)
-- [Tutorials](#Tutorials)
+  - [2D Engines](#2d-engines)
+  - [3D Engines](#3d-engines)
+- [Tools](#tools)
+- [Design](#design)
+- [Marketing](#marketing)
+- [Assets](#assets)
+  - [Visual Assets](#visual-assets)
+    - [2D Assets](#2d-assets)
+    - [3D Assets](#3d-assets)
+  - [Graphics Collections](#graphics-collections)
+  - [Textures](#textures)
+  - [Audio](#audio-assets)
+- [Tutorials](#tutorials)
 
 --------
 Code
@@ -46,6 +41,7 @@ Tools
 --------
 Design
 --------
+* [Blender](https://www.blender.org/) - Open-source 3D modeling software
 
 --------
 Marketing
@@ -68,3 +64,6 @@ Assets
 --------
 Tutorials
 --------
+* [CI Gamers Club Youtube Channel](https://www.youtube.com/channel/UCaLUNY1KWzoVoiAhESU3wrA) - Youtube channel for the club. The featured channels and playlists feature tutorials from various game developers. 
+* [Harvard CS50](https://pll.harvard.edu/course/cs50s-introduction-game-development?delta=0) - Free course from Harvard on the basic of programming and game development.
+* [.NET C#](https://dotnet.microsoft.com/en-us/learn/csharp) - Free resources from Microsoft to learn C#.
