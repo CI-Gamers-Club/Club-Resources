@@ -38,17 +38,25 @@ Code
 Tools
 --------
 ### Audio
-* [Audacity]()
-* [Adobe Audition]()
-* [Beepbox]()
-* [Bosca Ceoil]()
+* [Audacity](https://www.audacityteam.org/) - Sound recorder and editor.
+* [Adobe Audition](https://www.adobe.com/products/audition.html) - Sound recorder and editor (free for students via Creative Cloud).
+* [Beepbox](https://www.beepbox.co/) - In-browser chiptune music maker.
+* [Bosca Ceoil](https://boscaceoil.net/) - Online/Desktop retro music creator.
 * [ChipTone](https://sfbgames.itch.io/chiptone) - In-browser sound effect generator.
+
 ### Bitmap Compression
+
+### Modeling
+* [Blender](https://www.blender.org/) - Open-source 3D modeling software
+
+### 2D Art
+* [Aseprite](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - Pixel animation and editor (free if compiled manually).
+* [Piskel](https://www.piskelapp.com/) - In-browser pixel editor
 
 --------
 Design
 --------
-* [Blender](https://www.blender.org/) - Open-source 3D modeling software
+* [Twine](http://twinery.org/) - Open-source tool for designing interactive stories.
 
 --------
 Marketing
