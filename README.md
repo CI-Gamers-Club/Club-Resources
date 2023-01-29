@@ -7,10 +7,15 @@ A list of free and open-source resources for game dev
 
 - [Code](#code)
   - [2D Engines](#2d-engines)
-  - [3D Engines](#3d-engines)
-- [Tools](#tools)
-  - [Audio](#audio)
+  - [3D/2D Engines](#3d/2d-engines)
+- [Audio](#audio)
+  - [Editors](#editors)
+  - [Music Makers](#music-makers)
+  - [Sound Effects](#sound-effect-makers)
+- [Graphics](#graphics)
   - [Bitmap Compression](#bitmap-compression)
+  - [Modeling](#modeling)
+  - [Pixel Art](#pixel-art)
 - [Design](#design)
 - [Marketing](#marketing)
 - [Assets](#assets)
@@ -29,27 +34,34 @@ Code
 * [Ren.py](https://www.renpy.org/) - Visual novel engine. Supports Python.
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) - Simple game engine. Supports Lua.
 
-### 3D Engines
+### 3D/2D Engines
 * [Unity](https://unity.com/) - Supports C# and C++. Supports VR and AR. 
 * [Unreal](https://www.unrealengine.com/en-US) - Supports C#, C++, and Blueprint. Supports VR and AR.
 * [Godot](https://godotengine.org/) - Supports C#, C++, and GDScript. Supports AR and VR.
 
 --------
-Tools
+Audio
 --------
-### Audio
+### Editors
 * [Audacity](https://www.audacityteam.org/) - Sound recorder and editor.
 * [Adobe Audition](https://www.adobe.com/products/audition.html) - Sound recorder and editor (free for students via Creative Cloud).
+
+### Music Makers
 * [Beepbox](https://www.beepbox.co/) - In-browser chiptune music maker.
 * [Bosca Ceoil](https://boscaceoil.net/) - Online/Desktop retro music creator.
+
+### Sound Effect Makers
 * [ChipTone](https://sfbgames.itch.io/chiptone) - In-browser sound effect generator.
 
+--------
+Graphics
+--------
 ### Bitmap Compression
 
 ### Modeling
 * [Blender](https://www.blender.org/) - Open-source 3D modeling software
 
-### 2D Art
+### Pixel Art
 * [Aseprite](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - Pixel animation and editor (free if compiled manually).
 * [Piskel](https://www.piskelapp.com/) - In-browser pixel editor
 
@@ -63,7 +75,7 @@ Marketing
 --------
 * [Canva](https://www.canva.com/) - Online graphic design tool
 * [Photoshop](https://www.adobe.com/creativecloud.html) - Photo editor (free for students)
-* [Carrd.co](https://carrd.co/) - One-page landing page creator
+* [Carrd.co](https://carrd.co/) - One-page landing website creator
 
 
 --------
