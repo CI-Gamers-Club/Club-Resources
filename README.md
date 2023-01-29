@@ -7,15 +7,17 @@ A list of free and open-source resources for game dev
 
 - [Code](#code)
   - [2D Engines](#2d-engines)
-  - [3D/2D Engines](#3d/2d-engines)
+  - [3D/2D Engines](#3d2d-engines)
 - [Audio](#audio)
   - [Editors](#editors)
   - [Music Makers](#music-makers)
   - [Sound Effects](#sound-effect-makers)
 - [Graphics](#graphics)
-  - [Bitmap Compression](#bitmap-compression)
+  - [2D](#2d)
+    -[Pixel Art](#pixel-art)
+    -[Tile/Level Editor](#tilelevel-editor)
+    -[Bitmap Compression](#bitmap-compression)
   - [Modeling](#modeling)
-  - [Pixel Art](#pixel-art)
 - [Design](#design)
 - [Marketing](#marketing)
 - [Assets](#assets)
@@ -56,14 +58,21 @@ Audio
 --------
 Graphics
 --------
-### Bitmap Compression
-
-### Modeling
-* [Blender](https://www.blender.org/) - Open-source 3D modeling software
-
+## 2D
 ### Pixel Art
 * [Aseprite](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - Pixel animation and editor (free if compiled manually).
-* [Piskel](https://www.piskelapp.com/) - In-browser pixel editor
+* [Piskel](https://www.piskelapp.com/) - In-browser pixel editor.
+
+### Tile/Level Editors
+* [OGMO Editor](https://ogmo-editor-3.github.io/) - Level editor.
+* [Tiled](https://www.mapeditor.org/) - Tile editor.
+
+### Bitmap Compression
+
+## 3D
+### Modeling
+* [Blender](https://www.blender.org/) - Open-source 3D modeling software.
+
 
 --------
 Design
@@ -73,9 +82,9 @@ Design
 --------
 Marketing
 --------
-* [Canva](https://www.canva.com/) - Online graphic design tool
-* [Photoshop](https://www.adobe.com/creativecloud.html) - Photo editor (free for students)
-* [Carrd.co](https://carrd.co/) - One-page landing website creator
+* [Canva](https://www.canva.com/) - Online graphic design tool.
+* [Photoshop](https://www.adobe.com/creativecloud.html) - Photo editor (free for students via Creative Cloud).
+* [Carrd.co](https://carrd.co/) - One-page landing website creator.
 
 
 --------
