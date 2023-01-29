@@ -9,12 +9,13 @@ A list of free and open-source resources for game dev
   - [2D Engines](#2d-engines)
   - [3D Engines](#3d-engines)
 - [Tools](#tools)
+  - [Audio](#audio)
+  - [Bitmap Compression](#bitmap-compression)
 - [Design](#design)
 - [Marketing](#marketing)
 - [Assets](#assets)
-  - [Visual Assets](#visual-assets)
-    - [2D Assets](#2d-assets)
-    - [3D Assets](#3d-assets)
+  - [2D Assets](#2d-assets)
+  - [3D Assets](#3d-assets)
   - [Graphics Collections](#graphics-collections)
   - [Textures](#textures)
   - [Audio](#audio-assets)
@@ -36,7 +37,13 @@ Code
 --------
 Tools
 --------
-
+### Audio
+* [Audacity]()
+* [Adobe Audition]()
+* [Beepbox]()
+* [Bosca Ceoil]()
+* [ChipTone](https://sfbgames.itch.io/chiptone) - In-browser sound effect generator.
+### Bitmap Compression
 
 --------
 Design
@@ -54,12 +61,11 @@ Marketing
 --------
 Assets
 --------
-## Visual Assets
 ### 2D Assets
 ### 3D Assets
 ### Graphics Collections
 ### Textures
-## Audio
+### Audio
 
 --------
 Tutorials
