@@ -7,14 +7,22 @@ A list of free and open-source resources for game dev
 
 - [Code](#code)
   - [2D Engines](#2d-engines)
-  - [3D Engines](#3d-engines)
-- [Tools](#tools)
+  - [3D/2D Engines](#3d2d-engines)
+- [Audio](#audio)
+  - [Editors](#editors)
+  - [Music Makers](#music-makers)
+  - [Sound Effects](#sound-effect-makers)
+- [Graphics](#graphics)
+  - [2D](#2d)
+    -[Pixel Art](#pixel-art)
+    -[Tile/Level Editor](#tilelevel-editor)
+    -[Bitmap Compression](#bitmap-compression)
+  - [Modeling](#modeling)
 - [Design](#design)
 - [Marketing](#marketing)
 - [Assets](#assets)
-  - [Visual Assets](#visual-assets)
-    - [2D Assets](#2d-assets)
-    - [3D Assets](#3d-assets)
+  - [2D Assets](#2d-assets)
+  - [3D Assets](#3d-assets)
   - [Graphics Collections](#graphics-collections)
   - [Textures](#textures)
   - [Audio](#audio-assets)
@@ -28,38 +36,65 @@ Code
 * [Ren.py](https://www.renpy.org/) - Visual novel engine. Supports Python.
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) - Simple game engine. Supports Lua.
 
-### 3D Engines
+### 3D/2D Engines
 * [Unity](https://unity.com/) - Supports C# and C++. Supports VR and AR. 
 * [Unreal](https://www.unrealengine.com/en-US) - Supports C#, C++, and Blueprint. Supports VR and AR.
 * [Godot](https://godotengine.org/) - Supports C#, C++, and GDScript. Supports AR and VR.
 
 --------
-Tools
+Audio
 --------
+### Editors
+* [Audacity](https://www.audacityteam.org/) - Sound recorder and editor.
+* [Adobe Audition](https://www.adobe.com/products/audition.html) - Sound recorder and editor (free for students via Creative Cloud).
+
+### Music Makers
+* [Beepbox](https://www.beepbox.co/) - In-browser chiptune music maker.
+* [Bosca Ceoil](https://boscaceoil.net/) - Online/Desktop retro music creator.
+
+### Sound Effect Makers
+* [ChipTone](https://sfbgames.itch.io/chiptone) - In-browser sound effect generator.
+
+--------
+Graphics
+--------
+## 2D
+### Pixel Art
+* [Aseprite](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - Pixel animation and editor (free if compiled manually).
+* [Piskel](https://www.piskelapp.com/) - In-browser pixel editor.
+
+### Tile/Level Editors
+* [OGMO Editor](https://ogmo-editor-3.github.io/) - Level editor.
+* [Tiled](https://www.mapeditor.org/) - Tile editor.
+
+### Bitmap Compression
+
+## 3D
+### Modeling
+* [Blender](https://www.blender.org/) - Open-source 3D modeling software.
 
 
 --------
 Design
 --------
-* [Blender](https://www.blender.org/) - Open-source 3D modeling software
+* [Twine](http://twinery.org/) - Open-source tool for designing interactive stories.
 
 --------
 Marketing
 --------
-* [Canva](https://www.canva.com/) - Online graphic design tool
-* [Photoshop](https://www.adobe.com/creativecloud.html) - Photo editor (free for students)
-* [Carrd.co](https://carrd.co/) - One-page landing page creator
+* [Canva](https://www.canva.com/) - Online graphic design tool.
+* [Photoshop](https://www.adobe.com/creativecloud.html) - Photo editor (free for students via Creative Cloud).
+* [Carrd.co](https://carrd.co/) - One-page landing website creator.
 
 
 --------
 Assets
 --------
-## Visual Assets
 ### 2D Assets
 ### 3D Assets
 ### Graphics Collections
 ### Textures
-## Audio
+### Audio
 
 --------
 Tutorials
