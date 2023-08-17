@@ -21,3 +21,20 @@ Programming
 - [How to Use Git and Github in a Team Like a Pro](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/) - Describes use cases to show git in action.
 ## Game Engines
 - [Create Your First Godot Game](https://quiver.dev/tutorials/create-your-first-godot-4-game/) - Course for versions 4.0 and up.
+
+--------
+Design
+--------
+
+--------
+Art
+--------
+- [Workflow and Best Practices](https://rocketbrush.com/approach/art-outsourcing-workflow) -
+
+--------
+Sound
+--------
+
+--------
+Marketing
+--------
