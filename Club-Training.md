@@ -12,6 +12,9 @@ These are the resources members should become familiar with before starting game
 General
 --------
 This is for all members, regardless of role.
+- [Review Milestone Checklists](https://uky.campuslabs.com/engage/organization/cigamersclub) - There are four to review: Preproduction, Production, Testing, and Post Production. These will provide a guideline as to what needs to be done at the game development stages.
+- [Trello Guides](https://trello.com/guide) - An introduction to Trello's features. Only sections 1 through 5 are required.
+- [Trello](https://trello.com/) - A board style project management system. Make a free account to join boards and collaborate on tasks.
 
 --------
 Programming
@@ -48,6 +51,8 @@ Design
 Art
 --------
 - [Workflow and Best Practices](https://rocketbrush.com/approach/art-outsourcing-workflow) -
+- [Aseprite Installation Guide](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - Text guide on compiling Aseprite
+- [How to Compile Aseprite](https://www.youtube.com/watch?v=ccuoYq0ygM8) - A fast-paced but visual resource on how to compile Aseprite.
 
 --------
 Sound
