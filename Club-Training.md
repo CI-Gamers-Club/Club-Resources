@@ -1,15 +1,18 @@
 # CI Gamers Club Training
 These are the resources members should become familiar with before starting game development. 
-
+Table of Contents:
 - [General](#general)
-- [Programming](#programming)
-- [Design](#design)
-- [Art](#art)
-- [Sound](#sound)
-- [Marketing](#marketing)
+- [Role-Specific](#Role-Specific)
+  - [Programming](#programming)
+    - [Git](#git)
+    - [Game Engines](#game-engines)
+  - [Design](#design)
+  - [Art](#art)
+  - [Sound](#sound)
+  - [Marketing](#marketing)
 
 --------
-General
+# General
 --------
 This is for all members, regardless of role.
 - [Review Milestone Checklists](https://uky.campuslabs.com/engage/organization/cigamersclub) - There are four to review: Preproduction, Production, Testing, and Post Production. These will provide a guideline as to what needs to be done at the game development stages.
@@ -17,24 +20,34 @@ This is for all members, regardless of role.
 - [Trello](https://trello.com/) - A board style project management system. Make a free account to join boards and collaborate on tasks.
 
 --------
+# Role-Specific
+--------
+Once you have chosen the role you want to do, complete its relevant download and training resources below.
+--------
 Programming
 --------
 ## Git
+#### Download
 - [Git Started With GitHub](https://www.udemy.com/course/git-started-with-github/) - Only sections 1 through 4 need to be completed.
 - [GitHub Student Pack](https://education.github.com/pack) - Free access to developer tools for students. Add both personal and UKY email address so account is kept after graduation.
+#### Training
 - [How to Use Git and Github in a Team Like a Pro](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/) - Describes use cases to show git in action.
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - On the Main levels, all sections except "Advanced Topics" is required. On Remote levels, only section "Push & Pull -- Git Remotes!" is required.
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - Cheat sheet for reference.
 ## Game Engines
 ### Godot Engine
+#### Download
 - [Godot Download](https://godotengine.org/) - Click on the download tab and select the blue button that reads "Godot Engine". Follow the instructions to download.
-- [Create Your First Godot Game](https://quiver.dev/tutorials/create-your-first-godot-4-game/) - Course for versions 4.0 and up.
+#### Training
+- [Create Your First Godot Game](https://quiver.dev/tutorials/create-your-first-godot-4-game/) - Introductory ourse for versions 4.0 and up.
 ### RenPy
+#### Download
 - [RenPy Download](https://www.renpy.org/)
+- [Twine](https://twinery.org/) - A visual tool for mapping out visual novels. No download required. Can be converted to RenPy itself with the Twine to RenPy Converter. 
+- [Twine to RenPy Converter](https://ludowoods.itch.io/twine-to-renpy-tool) - Windows only.
+#### Training
 - [RenPy Tutorial for Beginners](https://youtu.be/C3Ldd-5PKCw?si=8WHFsj67ywFu_WC4) - A video explaining the basic commands used in RenPy.
 - [RenPy Documentation](https://www.renpy.org/doc/html/) - RenPy's Documentation. Use for finding commands, engine updates, and more.
-- [Twine](https://twinery.org/) - A visual tool for mapping out visual novels. Can be converted to RenPy itself with the Twine to RenPy Converter.
-- [Twine to RenPy Converter](https://ludowoods.itch.io/twine-to-renpy-tool) - Windows only.
 ### Unity 
 #### Download
 - [Unity Student Plan](https://unity.com/products/unity-student) - Sign up to unity with your UKY email address for free access to the Unity Student Plan. This will provide the courses used for training.
