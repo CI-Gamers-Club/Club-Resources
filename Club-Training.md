@@ -46,18 +46,35 @@ Programming
 --------
 Design
 --------
-
+Note: You may have to use art programs and game engine of choice to complete design tasks. See the [Art](#Art) or [Programming](#Programming) sections for more info.
+#### Training
+- [MIT's Introduction to Game Design](https://www.edx.org/learn/game-design/massachusetts-institute-of-technology-introduction-to-game-design?index=product&queryID=dc510be9ebc871e558e3b051c71239e1&position=1&results_level=first-level-results&term=mit%27s+introduction+to+game+design&objectID=course-acedc0ad-c308-4f1c-9c73-0375883a378e&campaign=Introduction+to+Game+Design&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch) - Only the videos from modules 1 through 5 are required. These are the ones that do not have "Assignment", "Reading", "Activity Break", or "Completion Checklist" listed on the page. Requires free EdX account.
 --------
 Art
 --------
-- [Workflow and Best Practices](https://rocketbrush.com/approach/art-outsourcing-workflow) -
+#### Download
+- [Photoshop via Adobe Creative Cloud](https://download.uky.edu/) - Can be accessed for free using your UKY linkblue.
 - [Aseprite Installation Guide](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - Text guide on compiling Aseprite
 - [How to Compile Aseprite](https://www.youtube.com/watch?v=ccuoYq0ygM8) - A fast-paced but visual resource on how to compile Aseprite.
-
+#### Training
+- [Concept Art for Games: First Steps](https://www.artstation.com/learning/courses/0OZ/concept-art-for-games-first-steps/chapters/1L2/introduction) - Explains how to make good concept art. Requires free artstation account.
+- [Digital Painting Fundamentals](https://www.ctrlpaint.com/getting-started) - Watch the six videos under the "Digital Painting 101" header. 
 --------
 Sound
 --------
-
+#### Download
+- [Audition via Adobe Creative Cloud](https://download.uky.edu/) - Can be accessed for free using your UKY linkblue.
+#### Training 
+- [Adobe Audition Tutorials](https://helpx.adobe.com/audition/tutorials.html) - Complete the "Audition for New Users" section. There are 9 videos total.
+- [How to Make Sound Effects for Games](https://www.youtube.com/watch?v=Kux_LvRl57U&t=730s) - Describes the process of making and editing sounds.
+- [Freesound.org](https://freesound.org/) - For finding sound effects. Requires free account to download sounds.
 --------
 Marketing
 --------
+#### Download
+- [Premeire Pro via Adobe Creative Cloud](https://download.uky.edu/) - Can be accessed for free using your UKY linkblue.
+- [Canva](https://www.canva.com/) - For making simple graphic designs. No download required. Requires free account.
+#### Training
+- [Digital Marketing Course for Beginners](https://www.udemy.com/course/fundamentals-of-digital-marketing-online-course/learn/) - Explains the fundamentals of digital marketing. Requires free Udemy account.
+- [Video Game Marketing Roadmap](https://www.youtube.com/watch?v=kFqpgqn1dEk&t=565s) - Explains the roadmap used by marketers during game development.
+- [Premeire Pro Tutorials](https://helpx.adobe.com/premiere-pro/tutorials.html) - Complete the "Premeire Pro Get Started Course". There are 9 videos total.
