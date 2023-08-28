@@ -66,12 +66,13 @@ Note: You may have to use art programs and game engine of choice to complete des
 Art
 --------
 #### Download
-- [Photoshop via Adobe Creative Cloud](https://download.uky.edu/) - Can be accessed for free using your UKY linkblue.
+- [Photoshop and Animate via Adobe Creative Cloud](https://download.uky.edu/) - Can be accessed for free using your UKY linkblue.
 - [Aseprite Installation Guide](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - Text guide on compiling Aseprite
 - [How to Compile Aseprite](https://www.youtube.com/watch?v=ccuoYq0ygM8) - A fast-paced but visual resource on how to compile Aseprite.
 #### Training
 - [Concept Art for Games: First Steps](https://www.artstation.com/learning/courses/0OZ/concept-art-for-games-first-steps/chapters/1L2/introduction) - Explains how to make good concept art. Requires free artstation account.
-- [Digital Painting Fundamentals](https://www.ctrlpaint.com/getting-started) - Watch the six videos under the "Digital Painting 101" header. 
+- [Digital Painting Fundamentals](https://www.ctrlpaint.com/getting-started) - Watch the six videos under the "Digital Painting 101" header.
+- [Adobe Animate Tutorials](https://helpx.adobe.com/animate/tutorials.html) - Complete the "Animate for New Users" section. There are 9 videos total.
 --------
 Sound
 --------
