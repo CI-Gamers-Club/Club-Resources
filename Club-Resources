@@ -11,8 +11,8 @@ A list of free and open-source resources for game dev
   - [3D/2D Engines](#3d2d-engines)
 - [Audio](#audio)
   - [Editors](#editors)
-  - [Music Makers](#music-makers)
-  - [Sound Effects](#sound-effect-makers)
+  - [Music Software](#music-software)
+  - [SFX Software](#SFX-software)
 - [Graphics](#graphics)
   - [2D](#2d)
     -[Pixel Art](#pixel-art)
@@ -27,13 +27,11 @@ A list of free and open-source resources for game dev
   - [Graphics Collections](#graphics-collections)
   - [Textures](#textures)
   - [Audio](#audio-assets)
-- [Tutorials](#tutorials)
 
 --------
 Code
 --------
 ### 2D Engines
-
 * [Ren.py](https://www.renpy.org/) - Visual novel engine. Supports Python.
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) - Simple game engine. Supports Lua.
 
@@ -49,11 +47,11 @@ Audio
 * [Audacity](https://www.audacityteam.org/) - Sound recorder and editor.
 * [Adobe Audition](https://www.adobe.com/products/audition.html) - Sound recorder and editor (free for students via Creative Cloud).
 
-### Music Makers
+### Music Software
 * [Beepbox](https://www.beepbox.co/) - In-browser chiptune music maker.
 * [Bosca Ceoil](https://boscaceoil.net/) - Online/Desktop retro music creator.
 
-### Sound Effect Makers
+### SFX Software
 * [ChipTone](https://sfbgames.itch.io/chiptone) - In-browser sound effect generator.
 
 --------
@@ -78,7 +76,7 @@ Graphics
 --------
 Design
 --------
-* [Twine](http://twinery.org/) - Open-source tool for designing interactive stories.
+* [Twine](http://twinery.org/) - Open-source tool for designing interactive stories. Good for visual novels.
 
 --------
 Marketing
@@ -96,11 +94,3 @@ Assets
 ### Graphics Collections
 ### Textures
 ### Audio
-
---------
-Tutorials
---------
-* [CI Gamers Club Youtube Channel](https://www.youtube.com/channel/UCaLUNY1KWzoVoiAhESU3wrA) - Youtube channel for the club. The featured channels and playlists feature tutorials from various game developers. 
-* [Harvard CS50](https://pll.harvard.edu/course/cs50s-introduction-game-development?delta=0) - Free course from Harvard on the basic of programming and game development.
-* [.NET C#](https://dotnet.microsoft.com/en-us/learn/csharp) - Free resources from Microsoft to learn C#.
-* [infinite runner tutorial](https://www.youtube.com/watch?v=M4O8UOEl5Tg)
