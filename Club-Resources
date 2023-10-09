@@ -1,12 +1,11 @@
 # Club-Resources
-NOTE: This will be updated later.
-A list of free and open-source resources for game dev
-
-<!--future club logo image here-->
-
+NOTE: This is a living document. 
+A list of free and open-source resources for game dev.
 **Remember to look through licenses before using!**
 
+<!--future club logo image here-->
 - [Code](#code)
+  - [Tools](#tools)
   - [2D Engines](#2d-engines)
   - [3D/2D Engines](#3d2d-engines)
 - [Audio](#audio)
@@ -17,20 +16,19 @@ A list of free and open-source resources for game dev
   - [2D](#2d)
     -[Pixel Art](#pixel-art)
     -[Tile/Level Editor](#tilelevel-editor)
-    -[Bitmap Compression](#bitmap-compression)
   - [Modeling](#modeling)
 - [Design](#design)
 - [Marketing](#marketing)
 - [Assets](#assets)
-  - [2D Assets](#2d-assets)
-  - [3D Assets](#3d-assets)
-  - [Graphics Collections](#graphics-collections)
-  - [Textures](#textures)
-  - [Audio](#audio-assets)
+  - [General](#general)
 
 --------
 Code
 --------
+### Tools
+* [Visual Studio Code](https://code.visualstudio.com/) - Lightweight code editor.
+* [Git](https://git-scm.com/) - Allows remote repository editing. 
+
 ### 2D Engines
 * [Ren.py](https://www.renpy.org/) - Visual novel engine. Supports Python.
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) - Simple game engine. Supports Lua.
@@ -66,12 +64,9 @@ Graphics
 * [OGMO Editor](https://ogmo-editor-3.github.io/) - Level editor.
 * [Tiled](https://www.mapeditor.org/) - Tile editor.
 
-### Bitmap Compression
-
 ## 3D
 ### Modeling
 * [Blender](https://www.blender.org/) - Open-source 3D modeling software.
-
 
 --------
 Design
@@ -85,12 +80,10 @@ Marketing
 * [Photoshop](https://www.adobe.com/creativecloud.html) - Photo editor (free for students via Creative Cloud).
 * [Carrd.co](https://carrd.co/) - One-page landing website creator.
 
-
 --------
 Assets
 --------
-### 2D Assets
-### 3D Assets
-### Graphics Collections
-### Textures
-### Audio
+### General
+* [Itch.io](https://itch.io/game-assets/free) - Variety of free game assets. 
+* [OpenGameArt](https://opengameart.org/) - Variety of free game assets.
+* [CraftPix.net](https://craftpix.net/freebies/) - Variety of free game assets.
