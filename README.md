@@ -1,6 +1,6 @@
 # CI Gamers Club Training
-These are the resources members should become familiar with before starting game development. 
-Table of Contents:
+These are the resources members should become familiar with before starting game development. If you have questions, go to the [Club Resources Wiki](https://github.com/CI-Gamers-Club/Club-Resources/wiki) or contact a club officer.
+## **Table of Contents:**
 - [General](#general)
 - [Role-Specific](#Role-Specific)
   - [Programming](#programming)
