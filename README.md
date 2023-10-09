@@ -1,4 +1,4 @@
-E# CI Gamers Club Training
+# CI Gamers Club Training
 These are the resources members should become familiar with before starting game development. 
 Table of Contents:
 - [General](#general)
